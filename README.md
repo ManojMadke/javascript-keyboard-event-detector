@@ -75,21 +75,3 @@ The `event.key` property gives the name or value of the key that was pressed, wh
 ## 🎯 Project Objective
 
 The main objective of this project was to understand how JavaScript can interact with user keyboard input and dynamically update webpage content.
-
-## 💡 Future Improvements
-
-Some features that can be added in the future:
-
-* Show keyboard key code
-* Show `event.code`
-* Display key name and key code together
-* Add a virtual keyboard UI
-* Add animations when a key is pressed
-* Improve responsive design
-* Add dark/light mode
-
-## 👨‍💻 Author
-
-**Manoj Madke**
-
-Learning and building projects while improving my JavaScript and Full Stack Development skills.
