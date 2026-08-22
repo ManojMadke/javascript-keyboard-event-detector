@@ -1,10 +1,25 @@
 # JavaScript Keyboard Event Detector
 
 A simple beginner-friendly JavaScript project that detects keyboard key presses and displays the pressed key on the screen.
-
 This project was created to practice **JavaScript DOM manipulation and keyboard events**.
 
-## 🚀 Demo
+## 🚀 Live Demo
+https://manojmadke.github.io/javascript-keyboard-event-detector/
+
+## 📸 Screenshots
+
+These screenshots show the actual project running in the browser.
+
+### NumLock Key
+![NumLock Key](screenshots/numlock.png)
+
+### Space Key
+![Space Key](screenshots/space.png)
+
+### CapsLock Key
+![CapsLock Key](screenshots/capslock.png)
+
+## ⚠️ Instruction
 
 Press any key on your keyboard and the webpage will display the key you pressed.
 
